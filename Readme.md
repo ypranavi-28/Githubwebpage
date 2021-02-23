@@ -23,4 +23,9 @@
 
 `def python():`
 
-|  table| table2|
+First Header | Second Header
+---------|----------
+hi | hello
+1|2
+
+(~~hello~~)
